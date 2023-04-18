@@ -1,0 +1,320 @@
+[
+    {
+        "ISBN": 1,
+        "Title": "Frontend Web Development",
+        "Author": "Mohan Raj And Suresh",
+        "Subject": "Web Technology",
+        "Publishdate": "2023-05-25"
+    },
+    {
+        "ISBN": 2,
+        "Title": "Backend Web Development",
+        "Author": "Prakash",
+        "Subject": "Web Technology",
+        "Publishdate": "2023-07-15"
+    },
+    {
+        "ISBN": 3,
+        "Title": "Responsive Web Design",
+        "Author": "Amar Singh",
+        "Subject": "Web Technology",
+        "Publishdate": "2023-06-05"
+    },
+    {
+        "ISBN": 4,
+        "Title": "Full Stack Web Development",
+        "Author": "Rajiv Suresh",
+        "Subject": "Web Technology",
+        "Publishdate": "2023-04-20"
+    },
+    {
+        "ISBN": 5,
+        "Title": "JavaScript Fundamentals",
+        "Author": "Arun And Prakash",
+        "Subject": "DSP",
+        "Publishdate": "2023-03-18"
+    },
+    {
+        "ISBN": 6,
+        "Title": "Data Structures and Algorithms",
+        "Author": "Karthick",
+        "Subject": "DSP",
+        "Publishdate": "2023-04-30"
+    },
+    {
+        "ISBN": 7,
+        "Title": "Agile Project Management",
+        "Author": "Iyyanar",
+        "Subject": "DSP",
+        "Publishdate": "2023-02-22"
+    },
+    {
+        "ISBN": 8,
+        "Title": "Leadership in Organizations",
+        "Author": "Rajkumar",
+        "Subject": "Management",
+        "Publishdate": "2023-01-10"
+    },
+    {
+        "ISBN": 9,
+        "Title": "Digital Electronics",
+        "Author": "Saranya",
+        "Subject": "Electronics",
+        "Publishdate": "2023-05-25"
+    },
+    {
+        "ISBN": 10,
+        "Title": "Network Security And Cryptography",
+        "Author": "Prabhu",
+        "Subject": "Security",
+        "Publishdate": "2023-06-12"
+    },
+    {
+        "ISBN": 11,
+        "Title": "Artificial Intelligence for Beginners",
+        "Author": "Akhila",
+        "Subject": "AI",
+        "Publishdate": "2023-02-08"
+    },
+    {
+        "ISBN": 12,
+        "Title": "Advanced Python Programming",
+        "Author": "Manoj",
+        "Subject": "Programming",
+        "Publishdate": "2023-03-28"
+    },
+    {
+        "ISBN": 13,
+        "Title": "Java Programming Basics",
+        "Author": "Naveen Kumar",
+        "Subject": "Programming",
+        "Publishdate": "2023-07-17"
+    },
+    {
+        "ISBN": 14,
+        "Title": "Wireless Communication Systems",
+        "Author": "Ilanchezhian",
+        "Subject": "Sensors",
+        "Publishdate": "2023-04-09"
+    },
+    {
+        "ISBN": 15,
+        "Title": "Wireless Communication Systems",
+        "Author": "Ilanchezhian",
+        "Subject": "Sensors",
+        "Publishdate": "2023-05-25"
+    },
+    {
+        "ISBN": 16,
+        "Title": "Database Management Systems",
+        "Author": "Santhosh",
+        "Subject": "Database",
+        "Publishdate": "2023-05-22"
+    },
+    {
+        "ISBN": 17,
+        "Title": "Cloud Computing",
+        "Author": "Gopinath",
+        "Subject": "Cloud Technology",
+        "Publishdate": "2023-03-15"
+    },
+    {
+        "ISBN": 18,
+        "Title": "Internet of Things (IoT)",
+        "Author": "Priya",
+        "Subject": "IoT",
+        "Publishdate": "2023-06-07"
+    },
+    {
+        "ISBN": 19,
+        "Title": "Big Data Analytics",
+        "Author": "Rajesh",
+        "Subject": "Data Science",
+        "Publishdate": "2023-02-18"
+    },
+    {
+        "ISBN": 20,
+        "Title": "Machine Learning",
+        "Author": "Jeba Emilyn",
+        "Subject": "AI",
+        "Publishdate": "2023-01-05"
+    },
+
+    {
+        "ISBN": 21,
+        "Title": "Computer Networks",
+        "Author": "Anand",
+        "Subject": "Networking",
+        "Publishdate": "2023-07-14"
+    },
+    {
+        "ISBN": 22,
+        "Title": "Data Structures",
+        "Author": "Aruna",
+        "Subject": "Computer Science",
+        "Publishdate": "2023-09-28"
+    },
+    {
+        "ISBN": 23,
+        "Title": "Software Engineering",
+        "Author": "Naveen",
+        "Subject": "Software Development",
+        "Publishdate": "2023-08-05"
+    },
+    {
+        "ISBN": 24,
+        "Title": "Operating Systems",
+        "Author": "Deepika",
+        "Subject": "Operating Systems",
+        "Publishdate": "2023-05-25"
+    },
+    {
+        "ISBN": 25,
+        "Title": "Computer Graphics",
+        "Author": "Suresh",
+        "Subject": "Graphics",
+        "Publishdate": "2023-11-20"
+    },
+    {
+        "ISBN": 26,
+        "Title": "Data Mining",
+        "Author": "Swetha",
+        "Subject": "Data Science",
+        "Publishdate": "2023-05-25"
+    },
+    {
+        "ISBN": 27,
+        "Title": "Artificial Intelligence",
+        "Author": "Kiran",
+        "Subject": "AI",
+        "Publishdate": "2022-04-20"
+    },
+    {
+        "ISBN": 28,
+        "Title": "Web Development",
+        "Author": "Praveen",
+        "Subject": "Web Development",
+        "Publishdate": "2024-02-22"
+    },
+    {
+        "ISBN": 29,
+        "Title": "Computer Security",
+        "Author": "Sindhu",
+        "Subject": "Security",
+        "Publishdate": "2024-03-30"
+    },
+    {
+        "ISBN": 30,
+        "Title": "Embedded Systems",
+        "Author": "Vinod",
+        "Subject": "Embedded Systems",
+        "Publishdate": "2024-04-06"
+    },
+    {
+        "ISBN": 31,
+        "Title": "Digital Signal Processing",
+        "Author": "Rahul",
+        "Subject": "Signal Processing",
+        "Publishdate": "2024-05-14"
+    },
+    {
+        "ISBN": 32,
+        "Title": "Human-Computer Interaction",
+        "Author": "Manju",
+        "Subject": "HCI",
+        "Publishdate": "2024-06-22"
+    },
+    {
+        "ISBN": 33,
+        "Title": "Computer Architecture",
+        "Author": "Harish",
+        "Subject": "Architecture",
+        "Publishdate": "2024-07-30"
+    },
+    {
+        "ISBN": 34,
+        "Title": "Robotics",
+        "Author": "Shiva",
+        "Subject": "Robotics",
+        "Publishdate": "2022-04-20"
+    },
+    {
+        "ISBN": 35,
+        "Title": "Computer Vision",
+        "Author": "Sangeetha",
+        "Subject": "Computer Vision",
+        "Publishdate": "2024-09-14"
+    },
+
+    {
+        "ISBN": 36,
+        "Title": "Natural Language Processing",
+        "Author": "Rajesh",
+        "Subject": "NLP",
+        "Publishdate": "2024-10-21"
+    },
+    {
+        "ISBN": 37,
+        "Title": "Database Management Systems",
+        "Author": "Meera",
+        "Subject": "Databases",
+        "Publishdate": "2022-04-20"
+    },
+    {
+        "ISBN": 38,
+        "Title": "Cloud Computing",
+        "Author": "Alok",
+        "Subject": "Cloud Computing",
+        "Publishdate": "2024-12-06"
+    },
+    {
+        "ISBN": 39,
+        "Title": "Big Data Analytics",
+        "Author": "Janani",
+        "Subject": "Big Data",
+        "Publishdate": "2023-01-13"
+    },
+    {
+        "ISBN": 40,
+        "Title": "Software Testing",
+        "Author": "Vijay",
+        "Subject": "Quality Assurance",
+        "Publishdate": "2022-04-20"
+    },
+    {
+        "ISBN": 41,
+        "Title": "Data Warehousing",
+        "Author": "Shweta",
+        "Subject": "Data Integration",
+        "Publishdate": "2023-04-20"
+    },
+    {
+        "ISBN": 42,
+        "Title": "Mobile App Development",
+        "Author": "Amit",
+        "Subject": "App Development",
+        "Publishdate": "2023-04-04"
+    },
+    {
+        "ISBN": 43,
+        "Title": "Network Security",
+        "Author": "Nisha",
+        "Subject": "Network Security",
+        "Publishdate": "2022-04-20"
+    },
+    {
+        "ISBN": 44,
+        "Title": "Data Science",
+        "Author": "Rohit",
+        "Subject": "Data Science",
+        "Publishdate": "2023-04-20"
+    },
+    {
+        "ISBN": 45,
+        "Title": "Agile Software Development",
+        "Author": "Priya",
+        "Subject": "Agile",
+        "Publishdate": "2023-07-25"
+    }
+]
+

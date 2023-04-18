@@ -1,0 +1,109 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 113%;
+    position: fixed;
+    z-index: -10;
+}
+
+.bg-videobox {
+    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    height: 90VH;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-videobox>h1 {
+    color: #aaccef;
+    font-size: 80px;
+    margin-left: 10px;
+}
+
+.bg-videobox>p {
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#btn {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+    color: blue;
+    margin: 25px;
+    background: linear-gradient(180deg, rgb(255, 106, 0),white, rgb(28, 241, 28));
+    background-size: 100%;
+    border-radius: 30px;
+    opacity: 100%;   
+    z-index: 1;
+    cursor: pointer;
+    text-align: center;
+  }
+  #btn:hover {
+    animation: animate 8s linear infinite;
+  }
+  @keyframes animate {
+    0% {
+      background-position: 0%;
+    }
+    100% {
+      background-position: 400%;
+    }
+  }
+  #btn:before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    z-index: -1;
+    background: linear-gradient(90deg, rgb(255, 106, 0),white, rgb(28, 241, 28));
+    background-size: 400%;
+    border-radius: 40px;
+    opacity: 0;
+    transition: 0.5%;
+  }
+  #btn:hover:before {
+    filter: blur(20px);
+    opacity: 1;
+    animation: animate 8s linear infinite;
+  }
+
+
+
+
+
+
+
+@media screen and (max-width: 960px) {
+    .bg-videobox>h1 {
+        font-size: 70px;
+    margin-bottom: 1;
+    color: #aaccef;
+    margin-top: 50px; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bg-videobox>h1 {
+        font-size: 50px;
+    margin-bottom: 1;
+    color: #aaccef;
+    margin-top: 50px; 
+    }
+    .bg-videobox>p {
+        font-size: 30px;
+    }
+}
+
+
+
